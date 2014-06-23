@@ -1,4 +1,3 @@
-/bin
-./out
-.classpath
+/out
+SOLID(object-oriented-design).iml
 .DS_Store

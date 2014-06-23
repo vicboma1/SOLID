@@ -39,5 +39,5 @@ Dependency Inversion Principle - dip
 
 Reference:
 * http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
-* Agile Software Development: Principles, Patterns and Practices. Pearson Education. 2002. ISBN 0-13-597444-5.
+* Agile Software Development: Principles, Patterns and Practices. Pearson Education. 2002.
 * http://vimeo.com/64086087
