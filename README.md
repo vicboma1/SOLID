@@ -4,31 +4,31 @@ Software Design
 The design principles are associated to Robert Martin who gathered them in "Agile Software Development: Principles, Patterns, and Practices". 
 
 
-Single Responsibility Principle - srp
+[Single Responsibility Principle](https://github.com/victorakamon/SOLID/tree/master/src/dip) - srp
 
 ```
 A class should have only one reason to change.
 ```
 
-Open Close Principle - ocp
+[Open Close Principle](https://github.com/victorakamon/SOLID/tree/master/src/isp) - ocp
 
 ```
 Software entities like classes, modules and functions should be open for extension but closed for modifications.
 ```
 
-Liskov's Substitution Principle - lsp
+[Liskov's Substitution Principle](https://github.com/victorakamon/SOLID/tree/master/src/lsp) - lsp
 
 ```
 Derived types must be completely substitutable for their base types.
 ```
 
-Interface Segregation Principle - isp
+[Interface Segregation Principle](https://github.com/victorakamon/SOLID/tree/master/src/ocp) - isp
 
 ```
 Clients should not be forced to depend upon interfaces that they don't use.
 ```
 
-Dependency Inversion Principle - dip
+[Dependency Inversion Principle](https://github.com/victorakamon/SOLID/tree/master/src/srp) - dip
 
 ```
 * High-level modules should not depend on low-level modules. Both should depend on abstractions.
