@@ -41,3 +41,4 @@ Reference:
 * http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 * Agile Software Development: Principles, Patterns and Practices. Pearson Education. 2002.
 * http://vimeo.com/64086087
+* @Author: Victor Bolinches Marin
